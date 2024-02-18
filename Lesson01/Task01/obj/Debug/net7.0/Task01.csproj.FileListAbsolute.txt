@@ -1,0 +1,14 @@
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\bin\Debug\net7.0\Task01.exe
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\bin\Debug\net7.0\Task01.deps.json
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\bin\Debug\net7.0\Task01.runtimeconfig.json
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\bin\Debug\net7.0\Task01.dll
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\bin\Debug\net7.0\Task01.pdb
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\Task01.AssemblyInfoInputs.cache
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\Task01.AssemblyInfo.cs
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\Task01.csproj.CoreCompileInputs.cache
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\Task01.dll
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\refint\Task01.dll
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\Task01.pdb
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\Task01.genruntimeconfig.cache
+C:\Обучение GeekBrains\Знакомство с языками программирования\01_CSharp\Lesson01\Task01\obj\Debug\net7.0\ref\Task01.dll
