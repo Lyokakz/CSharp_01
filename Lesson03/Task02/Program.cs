@@ -4,7 +4,6 @@
 */
 
 
-
 int n = 7;
 int[] arr = new int[n];
 FillArray(arr);
